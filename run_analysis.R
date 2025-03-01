@@ -67,6 +67,3 @@ tidySet <- setWithActivityNames %>%
 
 # Writing second tidy data set into a txt file
 write.table(tidySet, "tidySet.txt", row.names = FALSE)
-
-
-#original work by github.com/divyam6969
